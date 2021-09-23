@@ -1,0 +1,1 @@
+cmd_/home/luis/Documentos/copia/module/driver.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/luis/Documentos/copia/module/driver.ko /home/luis/Documentos/copia/module/driver.o /home/luis/Documentos/copia/module/driver.mod.o;  true

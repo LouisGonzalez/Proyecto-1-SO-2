@@ -1,0 +1,1 @@
+cmd_/home/sergio/Interrupt-Handler/module/mymodule.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/sergio/Interrupt-Handler/module/mymodule.ko /home/sergio/Interrupt-Handler/module/mymodule.o /home/sergio/Interrupt-Handler/module/mymodule.mod.o;  true
